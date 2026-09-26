@@ -3,4 +3,6 @@ Play Countdown number puzzles against the clock, or let the app find solutions t
 The application uses Google Play Games Services to provide features such as player sign-in and leaderboards.
 
 **Privacy Policy**
-The Countdown Numbers app does not collect any information about the user.
+Read the privacy policy [here](https://docs.google.com/document/d/1ByCnLCznPjHMW9klRJ5fn0wANk5tmfy_MgBX6_FQAWo/edit?usp=sharing).
+The Countdown Numbers app, published by WiseWandererAU, does not collect any information about the user. The app uses your logged in Google Play Games Services account only to submit scores to leaderboards.
+
